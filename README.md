@@ -17,3 +17,7 @@ backend-test
 <br/> 
 
 11/23 : Donggwon  브랜치 재생성 후 PR 
+
+<br/>
+
+11/23 : Jinwon 브랜치 생성 후 PR
